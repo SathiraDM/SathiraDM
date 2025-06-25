@@ -1,22 +1,39 @@
-# Hi there, I'm Sathira Mudalige 👋
+# 👋 Hi, I'm Sathira Mudalige
 
-I'm a dedicated developer with a passion for crafting innovative solutions. My main playgrounds are **Laravel**, **Flutter**, and **FlutterFlow**, but I also get my hands dirty with **Java**, **Node**, **React**, **Firebase**, **Supabase**, **Oracle Cloud**, and **AWS**. I'm all about pushing boundaries and exploring new tech frontiers! 🚀✨
+I'm a passionate full-stack developer and tech entrepreneur, currently building innovative products at the intersection of software, design, and startup strategy. I specialize in turning ideas into scalable digital solutions—fast.
 
-## Projects I'm Proud Of
+### 🚀 My Stack
 
-- **GymVIre**: Revolutionizing fitness tech to empower gym enthusiasts.
-- **Bookvire**: Bringing fresh ideas to the world of literature and digital connection.
-
-## What I Bring to the Table
-
-- **Web & Mobile Development**: Expert in Laravel, Flutter, and FlutterFlow.
-- **Backend & Cloud**: Experienced with Java, Node, Firebase, Supabase, Oracle Cloud, and AWS.
-- **Innovative Mindset**: Always on the lookout for new challenges and creative solutions.
-
-I'm constantly learning, coding, and innovating—let's build the future together! 💻🤝
-
-Feel free to reach out if you want to collaborate or chat about the next big thing in tech. 😎
+- **Frontend / Mobile**: React, Flutter, FlutterFlow
+- **Backend**: PHP, Laravel, Node.js, Java, Python, Next.js
+- **Cloud & Infrastructure**: Firebase, Supabase, AWS, Oracle Cloud
 
 ---
 
-*Happy Coding!*  
+### 🛠 Current Focus: [**FitVire**](https://fitvire.com)
+
+FitVire is a modern SaaS platform transforming the fitness industry with smart software and IoT-driven access control.  
+We're on a mission to digitize gyms, personal training, and sports centers with seamless, data-powered experiences.
+
+🌐 Visit: [**fitvire.com**](https://fitvire.com)
+
+---
+
+### 💡 What I Do
+
+- **Cross-Platform Development** (Web + Mobile)  
+- **API & Backend Architecture**  
+- **UI/UX Strategy & MVP Prototyping**  
+- **Startup-Ready Engineering with a Growth Mindset**
+
+---
+
+### 🤝 Let’s Connect
+
+Whether you're a founder, developer, or visionary with a big idea—I'm always open to meaningful collaborations and building the future together.
+
+Feel free to reach out. Let’s build something bold.
+
+---
+
+*Code with purpose. Build with vision.* 🚀
