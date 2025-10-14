@@ -1,12 +1,6 @@
 # 👋 Hi, I'm Sathira Mudalige
 
-I'm a passionate full-stack developer and tech entrepreneur, currently building innovative products at the intersection of software, design, and startup strategy. I specialize in turning ideas into scalable digital solutions—fast.
-
-### 🚀 My Stack
-
-- **Frontend / Mobile**: React, Flutter, FlutterFlow
-- **Backend**: PHP, Laravel, Node.js, Java, Python, Next.js
-- **Cloud & Infrastructure**: Firebase, Supabase, AWS, Oracle Cloud
+I'm a passionate full-stack developer and tech entrepreneur, currently building innovative products at the intersection of software, design, and startup strategy. I specialize in turning ideas into scalable digital solutions.
 
 ---
 
@@ -30,7 +24,7 @@ We're on a mission to digitize gyms, personal training, and sports centers with 
 
 ### 🤝 Let’s Connect
 
-Whether you're a founder, developer, or visionary with a big idea—I'm always open to meaningful collaborations and building the future together.
+Whether you're a founder, developer, or visionary with a big idea, I'm always open to meaningful collaborations and building the future together.
 
 Feel free to reach out. Let’s build something bold.
 
