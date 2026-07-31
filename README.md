@@ -4,15 +4,6 @@ I'm a passionate full-stack developer and tech entrepreneur, currently building 
 
 ---
 
-### 🛠 Current Focus: [**FitVire**](https://fitvire.com)
-
-FitVire is a modern SaaS platform transforming the fitness industry with smart software and IoT-driven access control.  
-We're on a mission to digitize gyms, personal training, and sports centers with seamless, data-powered experiences.
-
-🌐 Visit: [**fitvire.com**](https://fitvire.com)
-
----
-
 ### 💡 What I Do
 
 - **Cross-Platform Development** (Web + Mobile)  
